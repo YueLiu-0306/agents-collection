@@ -25,7 +25,7 @@ agents-collection/
 │       ├── knowledge.md               # 知识体系（按需加载）
 │       └── background.md              # 背景与心理画像（按需加载）
 │
-├── kaines-lloyd/                     # 技能 2：Kaines Lloyd
+├── keynes-lord/                     # 技能 2：Keynes Lord
 │   ├── SKILL.md                       # 核心扮演与写作辅助指南
 │   └── references/
 │       ├── personality.md             # 心理画像（按需加载）
