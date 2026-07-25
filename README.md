@@ -7,6 +7,7 @@
 | 技能 | 角色 | 类型 | 状态 |
 |------|------|------|------|
 | [michael-lancaster](./michael-lancaster/) | 米切尔·兰卡斯特 | 沉浸式角色扮演 | ✅ 已完成 |
+| [kaines-lloyd](./kaines-lloyd/) | 凯因斯·洛德 | 角色扮演 + 写作辅助 | ✅ 已完成 |
 
 <!-- 新技能在这里添加一行 -->
 
@@ -24,7 +25,13 @@ agents-collection/
 │       ├── knowledge.md               # 知识体系（按需加载）
 │       └── background.md              # 背景与心理画像（按需加载）
 │
-└── (future-agent)/                    # 技能 2、3... 后续添加
+├── kaines-lloyd/                     # 技能 2：Kaines Lloyd
+│   ├── SKILL.md                       # 核心扮演与写作辅助指南
+│   └── references/
+│       ├── personality.md             # 心理画像（按需加载）
+│       └── background.md              # 人际关系与背景（按需加载）
+│
+└── (future-agent)/                    # 技能 3、4... 后续添加
     ├── SKILL.md
     └── references/
 ```
